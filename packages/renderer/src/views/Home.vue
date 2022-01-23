@@ -1,5 +1,3 @@
 <template>
-  <div class="container">
-    sex
-  </div>
+  sex
 </template>
